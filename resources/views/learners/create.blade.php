@@ -23,7 +23,7 @@
                     @include('learners._form')
 
                     <div class="form-group">
-                        <button class="btn btn-primary float-right">Create Instructor</button>
+                        <button class="btn btn-primary float-right">Create Learner</button>
                     </div>
 
                 {!!  Form::close() !!}
